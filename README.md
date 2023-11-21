@@ -19,16 +19,7 @@
 ## :chart_with_upwards_trend: Resumo do trabalho da equipe
 
 
-- Empregamos o Kanban como uma ferramenta de gestão de tarefas.
-
-<img src="" /> 
-
-- Nos cartões do Kanban, são apresentadas informações essenciais para otimizar a eficiência do processo de trabalho. Essas informações incluem o nome do responsável pela tarefa, uma descrição detalhada da atividade, sua definição de pronto (DoD - Definition of Done) e critérios de aceitação (DoR - Definition of Ready), além de possíveis comentários do Product Owner após a avaliação da tarefa.
-
-<img src="" /> 
-
-
--Também empregamos o gráfico de burndown como uma ferramenta de gestão temporal para nossas entregas. Por meio disso, obtemos uma perspectiva abrangente do projeto, permitindo-nos identificar possíveis pontos de estrangulamento e corrigi-los antes que possam resultar em erros mais significativos.
+-Empregamos o gráfico de burndown como uma ferramenta de gestão temporal para nossas entregas. Por meio disso, obtemos uma perspectiva abrangente do projeto, permitindo-nos identificar possíveis pontos de estrangulamento e corrigi-los antes que possam resultar em erros mais significativos.
 
 <img src="https://github.com/projetoPDali/projetoPDali/blob/main/img/InkedBURNDOWNSPRINT32.jpg" /> 
 
